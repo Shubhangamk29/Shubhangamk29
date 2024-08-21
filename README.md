@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhangamk29
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Machine learning and SQL for better skill set
+- 🌱 I’m currently learning SQL for better skill set
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin: Shubhangam kumar
 
